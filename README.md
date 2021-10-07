@@ -2,6 +2,9 @@
 Dash App for Iris Dataset
 
 ![Demo](IrisScatter.gif)
+
+
+
 The iris flower dataset consists of five measurments (plant species + lengths and widths of their sepals and petals) of 150 plants. If we represent the species categorical variable as color, we are left with four continuos variables to represent. We visualize these four variables using a scatter plot as follows:
 
 1. The sepal width and length are represented as the x and y variables of the scatter plot
